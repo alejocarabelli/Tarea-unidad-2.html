@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    border: 4px solid black;
+    display: inline-flex;
+    align-items: center;
+justify-content: space-between;
+}
+.item{
+    background-color: azure;
+    width: 233px;
+    height: 233px;
+    margin: 0px;
+    font-size: 30px;
+justify-content: center;
+align-items: center;
+display: flex;
+
+}
+.red{background-color: red;
+margin-right: 200px;}
+
+.green{background-color: green;}
+.blue{background-color: blue;
+margin-right:  200px;}
